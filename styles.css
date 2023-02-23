@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    background: #f7a540;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width:800px;
+}
+#image{
+    width: 150px;
+    display: flex;
+    margin: 10px;
+}
+.top{
+    display: flex;
+    border: 3px solid #1c264a;
+    padding-left: 250px;
+    height: 100px;
+    background-color: #270a33;
+    z-index: 1;
+    min-width: 100px;
+    width: 494px;
+}
+#title{
+    font-family: tahoma;
+    color: white;
+}
+#navbar{
+    position: fixed;
+    border-right: solid #1c264a;
+    border-left: solid #1c264a;
+    height: 100%;
+    min-width: 250px;
+    z-index: 2;
+    border-bottom: 2px solid;
+    background-color: #270a33;
+}
+.navbar{
+    font-family: arial;
+    font-size: 20px;
+    border-bottom: solid #1c264a;
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+
+    color: white;
+}
+.navbar-1{
+    border-top: solid #1c264a;
+    margin-top: 0px;
+    padding-left: 0;
+}
+h2{
+    text-align: center;
+    color: black;
+    padding-left: 290px;
+    font-family: calibri;
+    font-weight: 500px;
+    font-style: oblique;
+    font-size: 30px;
+}
+.p-home{
+    text-align: center;
+    font-family: sans-serif;
+    padding-left: 300px;
+}
+.parag-info{
+    max-width: 1000px;
+}
+.typesofkeyboard{
+    margin-top: 50px;
+    padding-left: 300px;
+}
+.tofkeyboard{
+    font-family: sans-serif;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+.parag-types{
+    max-width: 1000px;
+}
+.justify{
+    text-align: justify;
+    padding-left: 300px;
+    font-family: sans-serif;
+}
+.bold{
+    font-weight: 800;
+}
+div{
+    border: solid #1c264a;
+    padding-right: 50px;
+}
+a{
+    color: white;
+}
